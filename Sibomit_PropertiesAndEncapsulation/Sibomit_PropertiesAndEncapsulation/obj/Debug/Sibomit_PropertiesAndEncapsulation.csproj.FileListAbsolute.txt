@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\bin\Debug\Sibomit_PropertiesAndEncapsulation.exe.config
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\bin\Debug\Sibomit_PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\bin\Debug\Sibomit_PropertiesAndEncapsulation.pdb
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\obj\Debug\Sibomit_PropertiesAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\obj\Debug\Sibomit_PropertiesAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\obj\Debug\Sibomit_PropertiesAndEncapsulation.exe
+C:\Users\ACT-STUDENT\source\repos\OOP\Sibomit_PropertiesAndEncapsulation\Sibomit_PropertiesAndEncapsulation\obj\Debug\Sibomit_PropertiesAndEncapsulation.pdb
