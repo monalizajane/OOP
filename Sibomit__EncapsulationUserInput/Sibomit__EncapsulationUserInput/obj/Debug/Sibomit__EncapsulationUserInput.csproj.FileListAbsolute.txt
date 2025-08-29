@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\bin\Debug\Sibomit__EncapsulationUserInput.exe.config
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\bin\Debug\Sibomit__EncapsulationUserInput.exe
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\bin\Debug\Sibomit__EncapsulationUserInput.pdb
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\obj\Debug\Sibomit__EncapsulationUserInput.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\obj\Debug\Sibomit__EncapsulationUserInput.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\obj\Debug\Sibomit__EncapsulationUserInput.exe
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\obj\Debug\Sibomit__EncapsulationUserInput.pdb
-C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit__EncapsulationUserInput\Sibomit__EncapsulationUserInput\obj\Debug\Sibomit__EncapsulationUserInput.exe.config
