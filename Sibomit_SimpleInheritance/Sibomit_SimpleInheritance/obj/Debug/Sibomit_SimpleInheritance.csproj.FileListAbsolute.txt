@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\bin\Debug\Sibomit_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\bin\Debug\Sibomit_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\bin\Debug\Sibomit_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\obj\Debug\Sibomit_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\obj\Debug\Sibomit_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\obj\Debug\Sibomit_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\obj\Debug\Sibomit_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_SimpleInheritance\Sibomit_SimpleInheritance\obj\Debug\Sibomit_SimpleInheritance.exe.config
