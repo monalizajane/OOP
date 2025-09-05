@@ -8,6 +8,9 @@ namespace Sibomit_InheritanceWithConstructor
 {
     internal class Program
     {
+        //Name: Monaliza Jane Sibomit
+        //Section: IT306
+        //Exercise: Simple Inheritance with Constructor
         static void Main(string[] args)
         {
             //create an instance of the regular class student
