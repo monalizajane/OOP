@@ -15,8 +15,9 @@ namespace Sibomit_InheritanceUserInput
         {
         Main:
             //user will select which derived class to input
-            Console.WriteLine("Choose which bag would you like to provide information for (A/B): ");
+            Console.WriteLine("Choose which bag would you like to provide information for: ");
             Console.WriteLine("A. Backpack\nB.Handbag");
+            Console.WriteLine("Enter your answer: ");
             char answer = char.Parse(Console.ReadLine());
 
             if (answer == 'A')
@@ -24,14 +25,14 @@ namespace Sibomit_InheritanceUserInput
                 Console.Clear();
 
                 //user will input backpack details
-                Console.WriteLine("Enter the Backpack Details:");
-                Console.Write("Brand: ");
+                Console.WriteLine("Backpack Details:");
+                Console.Write("Enter the brand of the bag: ");
                 string brand = Console.ReadLine();
-                Console.Write("Price: $");
+                Console.Write("Enter the price of the bag: $");
                 double price = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Color: ");
+                Console.Write("Enter the color of the bag: ");
                 string color = Console.ReadLine();
-                Console.Write("Has a Laptop Compartment (Y/N): ");
+                Console.Write("Has a Laptop Compartment? (Y/N): ");
                 char laptopComp = char.Parse(Console.ReadLine());
 
                 //create an instance
@@ -49,12 +50,12 @@ namespace Sibomit_InheritanceUserInput
                 Console.Clear();
 
                 //user will input handbag details
-                Console.WriteLine("Enter the Handbag Details:");
-                Console.Write("Brand: ");
+                Console.WriteLine("Handbag Details:");
+                Console.Write("Enter the brand of the bag: ");
                 string brand = Console.ReadLine();
-                Console.Write("Price: $");
+                Console.Write("Enter the price of the bag: $");
                 double price = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Color: ");
+                Console.Write("What material is the bag made of? (ex. leather): ");
                 string material = Console.ReadLine();
                 Console.Write("Has a Shoulder Strap (Y/N): ");
                 char shoulderStrap = char.Parse(Console.ReadLine());
@@ -71,7 +72,22 @@ namespace Sibomit_InheritanceUserInput
 
             else
             {
+                Console.Clear();
                 Console.WriteLine("Invalid choice.");
+                Console.ReadLine();
+                goto Main;
+            }
+
+            //input another bag details
+            Console.Write("Do you want to enter another bag detail? (Y/N): ");
+            char another = Convert.ToChar(Console.ReadLine());
+            if (another == 'Y' || another == 'y')
+            {
+                goto Main;
+            }
+            else if (another == 'N' || another == 'n')
+            {
+                return;
             }
 
             Console.ReadKey();
