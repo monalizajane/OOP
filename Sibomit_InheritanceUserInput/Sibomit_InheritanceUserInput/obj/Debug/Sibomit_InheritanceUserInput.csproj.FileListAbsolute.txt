@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\obj\Debug\Sibomit_InheritanceUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\obj\Debug\Sibomit_InheritanceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\bin\Debug\Sibomit_InheritanceUserInput.exe.config
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\bin\Debug\Sibomit_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\bin\Debug\Sibomit_InheritanceUserInput.pdb
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\obj\Debug\Sibomit_InheritanceUserInput.exe
+C:\Users\ACT-STUDENT\Downloads\OOP\Sibomit_InheritanceUserInput\Sibomit_InheritanceUserInput\obj\Debug\Sibomit_InheritanceUserInput.pdb
