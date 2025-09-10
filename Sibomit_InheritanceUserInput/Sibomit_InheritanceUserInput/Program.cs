@@ -16,8 +16,8 @@ namespace Sibomit_InheritanceUserInput
         Main:
             //user will select which derived class to input
             Console.WriteLine("Choose which bag would you like to provide information for: ");
-            Console.WriteLine("A. Backpack\nB.Handbag");
-            Console.WriteLine("Enter your answer: ");
+            Console.WriteLine("A. Backpack\nB. Handbag");
+            Console.Write("Enter your answer: ");
             char answer = char.Parse(Console.ReadLine());
 
             if (answer == 'A')
@@ -25,7 +25,7 @@ namespace Sibomit_InheritanceUserInput
                 Console.Clear();
 
                 //user will input backpack details
-                Console.WriteLine("Backpack Details:");
+                Console.WriteLine("Backpack Details:\n");
                 Console.Write("Enter the brand of the bag: ");
                 string brand = Console.ReadLine();
                 Console.Write("Enter the price of the bag: $");
@@ -40,7 +40,7 @@ namespace Sibomit_InheritanceUserInput
 
                 //call the method to display
                 Console.Clear();
-                Console.WriteLine("***BACKPACK DETAILS***");
+                Console.WriteLine("***BACKPACK DETAILS***\n");
                 myBackpack.BagDetails();
                 myBackpack.BackpackDetails();
             }
@@ -50,7 +50,7 @@ namespace Sibomit_InheritanceUserInput
                 Console.Clear();
 
                 //user will input handbag details
-                Console.WriteLine("Handbag Details:");
+                Console.WriteLine("Handbag Details:\n");
                 Console.Write("Enter the brand of the bag: ");
                 string brand = Console.ReadLine();
                 Console.Write("Enter the price of the bag: $");
@@ -65,7 +65,7 @@ namespace Sibomit_InheritanceUserInput
 
                 //call the method to display
                 Console.Clear();
-                Console.WriteLine("***HANDBAG DETAILS***");
+                Console.WriteLine("***HANDBAG DETAILS***\n");
                 myHandbag.BagDetails();
                 myHandbag.HandbagDetails();
             }
@@ -79,7 +79,7 @@ namespace Sibomit_InheritanceUserInput
             }
 
             //input another bag details
-            Console.Write("Do you want to enter another bag detail? (Y/N): ");
+            Console.Write("\nDo you want to enter another bag detail? (Y/N): ");
             char another = Convert.ToChar(Console.ReadLine());
             if (another == 'Y' || another == 'y')
             {
