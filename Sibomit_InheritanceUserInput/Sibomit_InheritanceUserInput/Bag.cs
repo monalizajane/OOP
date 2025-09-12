@@ -22,7 +22,7 @@ namespace Sibomit_InheritanceUserInput
         //method to display
         public void BagDetails()
         {
-            Console.WriteLine($"Brand: {brand}\nPrice: ${price}");
+            Console.WriteLine($"\tBrand: {brand}\n\tPrice: P{price}");
         }
     }
 
@@ -42,7 +42,7 @@ namespace Sibomit_InheritanceUserInput
         //method to display
         public void BackpackDetails()
         {
-            Console.WriteLine($"Color: {color}\nHas a Laptop Compartment: {laptopComp}");
+            Console.WriteLine($"\tColor: {color}\n\tHas a Laptop Compartment: {laptopComp}");
         }
     }
 
@@ -62,7 +62,7 @@ namespace Sibomit_InheritanceUserInput
         //method to display
         public void HandbagDetails()
         {
-            Console.WriteLine($"Material: {material}\nHas a Shoulder Strap: {shoulderStrap}");
+            Console.WriteLine($"\tMaterial: {material}\n\tHas a Shoulder Strap: {shoulderStrap}");
         }
     }
 }
