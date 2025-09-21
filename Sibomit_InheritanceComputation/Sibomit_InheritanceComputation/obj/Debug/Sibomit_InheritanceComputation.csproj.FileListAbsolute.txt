@@ -1,0 +1,8 @@
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\bin\Debug\Sibomit_InheritanceComputation.exe.config
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\bin\Debug\Sibomit_InheritanceComputation.exe
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\bin\Debug\Sibomit_InheritanceComputation.pdb
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\obj\Debug\Sibomit_InheritanceComputation.csproj.AssemblyReference.cache
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\obj\Debug\Sibomit_InheritanceComputation.csproj.CoreCompileInputs.cache
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\obj\Debug\Sibomit_InheritanceComputation.exe
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\obj\Debug\Sibomit_InheritanceComputation.pdb
+C:\Users\sibom\OneDrive\Desktop\OOP\Sibomit_InheritanceComputation\Sibomit_InheritanceComputation\obj\Debug\Sibomit_InheritanceComputation.exe.config
