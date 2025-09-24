@@ -13,7 +13,7 @@ namespace Sibomit_TuitionComputation
             //Instance of Student
             Student student1 = new Student
             {
-                BaseTuition = 18000,
+                BaseTuition = 24000,
                 Miscellaneous = 9000
             };
 
@@ -24,9 +24,8 @@ namespace Sibomit_TuitionComputation
             //Instance of Irregular
             Irregular student2 = new Irregular
             {
-                BaseTuition = 18000,
                 UnitsEnrolled = 15,
-                RatePerUnit = 2000,
+                RatePerUnit = 1500,
                 Miscellaneous = 9000
             };
 
@@ -37,7 +36,7 @@ namespace Sibomit_TuitionComputation
             //Instance of Working
             Working student3 = new Working
             {
-                BaseTuition = 18000,
+                BaseTuition = 24000,
                 Miscellaneous = 9000,
                 Discount = 50
             };
