@@ -1,0 +1,8 @@
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\bin\Debug\Sibomit_TuitionUserInput.exe.config
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\bin\Debug\Sibomit_TuitionUserInput.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\bin\Debug\Sibomit_TuitionUserInput.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\obj\Debug\Sibomit_TuitionUserInput.csproj.AssemblyReference.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\obj\Debug\Sibomit_TuitionUserInput.csproj.CoreCompileInputs.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\obj\Debug\Sibomit_TuitionUserInput.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\obj\Debug\Sibomit_TuitionUserInput.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_TuitionUserInput\Sibomit_TuitionUserInput\obj\Debug\Sibomit_TuitionUserInput.exe.config
