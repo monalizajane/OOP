@@ -18,7 +18,7 @@ namespace Sibomit_TuitionComputation
             };
 
             //Call method to display
-            Console.WriteLine("Regular Student");
+            Console.WriteLine("\n\t*****Regular Student*****\n");
             student1.TotalTuitionFee();
 
             //Instance of Irregular
@@ -31,7 +31,7 @@ namespace Sibomit_TuitionComputation
             };
 
             //Call method to display
-            Console.WriteLine("\nIrregular Student");
+            Console.WriteLine("\n\n\t*****Irregular Student*****\n");
             student2.TotalTuitionFee();
 
             //Instance of Working
@@ -43,7 +43,7 @@ namespace Sibomit_TuitionComputation
             };
 
             //Call method to display
-            Console.WriteLine("\nWorking Student");
+            Console.WriteLine("\n\n\t*****Working Student*****\n");
             student3.TotalTuitionFee();
 
             Console.ReadKey();
