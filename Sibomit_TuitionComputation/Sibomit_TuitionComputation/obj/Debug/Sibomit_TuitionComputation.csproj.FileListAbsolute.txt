@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\bin\Debug\Sibomit_TuitionComputation.exe.config
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\bin\Debug\Sibomit_TuitionComputation.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\bin\Debug\Sibomit_TuitionComputation.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\obj\Debug\Sibomit_TuitionComputation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\obj\Debug\Sibomit_TuitionComputation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\obj\Debug\Sibomit_TuitionComputation.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Sibomit_TuitionComputation\Sibomit_TuitionComputation\obj\Debug\Sibomit_TuitionComputation.pdb
