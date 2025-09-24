@@ -52,7 +52,7 @@ namespace Sibomit_TuitionComputation
         //Override ComputeTuitionFee
         public override double ComputeTuitionFee
         {
-            get { return (BaseTuition + Miscellaneous) - (Tuition * (Discount / 100)); }
+            get { return (BaseTuition + Miscellaneous) - (BaseTuition * (Discount / 100)); }
         }
 
         //Override method to display
