@@ -21,7 +21,7 @@ namespace Sibomit_TuitionComputation
         //Method to display
         public virtual void TotalTuitionFee()
         {
-            Console.WriteLine($"Tuition Fee: {BaseTuition}\nMiscellaneous Fee: {Miscellaneous}\nTotal Tuition Fee: {ComputeTuitionFee}" );
+            Console.WriteLine($"Tuition Fee: {BaseTuition}\nMiscellaneous Fee: {Miscellaneous}\n\nTotal Tuition Fee: {ComputeTuitionFee}" );
         }
     }
 
@@ -34,13 +34,13 @@ namespace Sibomit_TuitionComputation
         //Override ComputeTuitionFee
         public override double ComputeTuitionFee
         {
-            get { return (UnitsEnrolled * RatePerUnit) + BaseTuition + Miscellaneous; }
+            get { return (UnitsEnrolled * RatePerUnit) + Miscellaneous; }
         }
 
         //Override method to display
         public override void TotalTuitionFee()
         {
-            Console.WriteLine($"Units Enrolled: {UnitsEnrolled}\nRate per Unit: {RatePerUnit}\nMiscellaneous Fee: {Miscellaneous}\nTotal Tuition Fee: {ComputeTuitionFee}");
+            Console.WriteLine($"Units Enrolled: {UnitsEnrolled}\nRate per Unit: {RatePerUnit}\nMiscellaneous Fee: {Miscellaneous}\n\nTotal Tuition Fee: {ComputeTuitionFee}");
         }
     }
 
@@ -58,7 +58,7 @@ namespace Sibomit_TuitionComputation
         //Override method to display
         public override void TotalTuitionFee()
         {
-            Console.WriteLine($"Tuition Fee: {BaseTuition}\nMiscellaneous Fee: {Miscellaneous}\nDiscount: {Discount}%\nTotal Tuition Fee: {ComputeTuitionFee}");
+            Console.WriteLine($"Tuition Fee: {BaseTuition}\nMiscellaneous Fee: {Miscellaneous}\nDiscount: {Discount}%\n\nTotal Tuition Fee: {ComputeTuitionFee}");
         }
     }
 }
