@@ -1,0 +1,8 @@
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\bin\Debug\Sibomit_InheritancePolymorphism.exe.config
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\bin\Debug\Sibomit_InheritancePolymorphism.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\bin\Debug\Sibomit_InheritancePolymorphism.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\obj\Debug\Sibomit_InheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\obj\Debug\Sibomit_InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\obj\Debug\Sibomit_InheritancePolymorphism.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\obj\Debug\Sibomit_InheritancePolymorphism.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_InheritancePolymorphism\Sibomit_InheritancePolymorphism\obj\Debug\Sibomit_InheritancePolymorphism.exe.config
