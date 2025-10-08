@@ -30,7 +30,7 @@ namespace Sibomit_Abstraction
             double discount = Price * (percent / 100);
             Price -= discount;     //Price = Price - discount
 
-            Console.WriteLine($"Discount: {discount}%");
+            Console.WriteLine($"Discount: {percent}%");
             Console.WriteLine($"Updated Price: {Price:F2}");     //F2 formats the price to 2 decimal places")
         }
     }
