@@ -1,0 +1,8 @@
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\obj\Debug\Sibomit_Abstraction.csproj.AssemblyReference.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\obj\Debug\Sibomit_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\bin\Debug\Sibomit_Abstraction.exe.config
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\bin\Debug\Sibomit_Abstraction.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\bin\Debug\Sibomit_Abstraction.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\obj\Debug\Sibomit_Abstraction.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\obj\Debug\Sibomit_Abstraction.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_Abstraction\Sibomit_Abstraction\obj\Debug\Sibomit_Abstraction.exe.config
