@@ -1,0 +1,7 @@
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\bin\Debug\Sibomit_Polymorphism.exe.config
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\bin\Debug\Sibomit_Polymorphism.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\bin\Debug\Sibomit_Polymorphism.pdb
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\obj\Debug\Sibomit_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\obj\Debug\Sibomit_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\obj\Debug\Sibomit_Polymorphism.exe
+C:\Users\sibom\Downloads\OOP\Sibomit_Polymorphism\Sibomit_Polymorphism\obj\Debug\Sibomit_Polymorphism.pdb
