@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibomit_Polymorphism", "Sibomit_Polymorphism\Sibomit_Polymorphism.csproj", "{D5F3B943-7DA8-47E7-80FC-B05630BDF2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F3B943-7DA8-47E7-80FC-B05630BDF2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F3B943-7DA8-47E7-80FC-B05630BDF2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F3B943-7DA8-47E7-80FC-B05630BDF2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F3B943-7DA8-47E7-80FC-B05630BDF2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA60906-70EC-41E0-9813-2A5CAF15B81D}
+	EndGlobalSection
+EndGlobal
